@@ -1,0 +1,15 @@
+C:\Users\Qwerty\Documents\Обучение\1_lectures\lesson_3\Exemples\Exe001_HelloConsole\bin\Debug\net6.0\Exe001_HelloConsole.exe
+C:\Users\Qwerty\Documents\Обучение\1_lectures\lesson_3\Exemples\Exe001_HelloConsole\bin\Debug\net6.0\Exe001_HelloConsole.deps.json
+C:\Users\Qwerty\Documents\Обучение\1_lectures\lesson_3\Exemples\Exe001_HelloConsole\bin\Debug\net6.0\Exe001_HelloConsole.runtimeconfig.json
+C:\Users\Qwerty\Documents\Обучение\1_lectures\lesson_3\Exemples\Exe001_HelloConsole\bin\Debug\net6.0\Exe001_HelloConsole.dll
+C:\Users\Qwerty\Documents\Обучение\1_lectures\lesson_3\Exemples\Exe001_HelloConsole\bin\Debug\net6.0\Exe001_HelloConsole.pdb
+C:\Users\Qwerty\Documents\Обучение\1_lectures\lesson_3\Exemples\Exe001_HelloConsole\obj\Debug\net6.0\Exe001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Qwerty\Documents\Обучение\1_lectures\lesson_3\Exemples\Exe001_HelloConsole\obj\Debug\net6.0\Exe001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qwerty\Documents\Обучение\1_lectures\lesson_3\Exemples\Exe001_HelloConsole\obj\Debug\net6.0\Exe001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Qwerty\Documents\Обучение\1_lectures\lesson_3\Exemples\Exe001_HelloConsole\obj\Debug\net6.0\Exe001_HelloConsole.AssemblyInfo.cs
+C:\Users\Qwerty\Documents\Обучение\1_lectures\lesson_3\Exemples\Exe001_HelloConsole\obj\Debug\net6.0\Exe001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Qwerty\Documents\Обучение\1_lectures\lesson_3\Exemples\Exe001_HelloConsole\obj\Debug\net6.0\Exe001_HelloConsole.dll
+C:\Users\Qwerty\Documents\Обучение\1_lectures\lesson_3\Exemples\Exe001_HelloConsole\obj\Debug\net6.0\refint\Exe001_HelloConsole.dll
+C:\Users\Qwerty\Documents\Обучение\1_lectures\lesson_3\Exemples\Exe001_HelloConsole\obj\Debug\net6.0\Exe001_HelloConsole.pdb
+C:\Users\Qwerty\Documents\Обучение\1_lectures\lesson_3\Exemples\Exe001_HelloConsole\obj\Debug\net6.0\Exe001_HelloConsole.genruntimeconfig.cache
+C:\Users\Qwerty\Documents\Обучение\1_lectures\lesson_3\Exemples\Exe001_HelloConsole\obj\Debug\net6.0\ref\Exe001_HelloConsole.dll
